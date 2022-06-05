@@ -747,6 +747,10 @@ img {
     background-repeat: repeat, no-repeat;
   }
 
+  .section.fix {
+    margin-top: 250px;
+  }
+
   .intro-text.footer.top {
     max-width: none;
     margin-top: 200px;
